@@ -19,27 +19,20 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - Tailwind CSS
 
 **Backend:**
-- Node.js
-- Express.js
-- Firebase
-- REST APIs
+- ASP.Net
 
 **Other Tools:**
-- Git & GitHub
-- PostNL API Integration
-- BLoC, MVVM, Clean Architecture
+- Git, GitHub, GitLab
+- BLoC, MVVM
 - Unity (2D Game Development)
 
 ## 🔥 Featured Projects
-
 - 📱 **MultiStepForm App** – A step-based form with Flutter & BLoC
 - 🕹️ **PixelWorld** – A 2D platformer made using Unity & Tilemaps
-- 🧭 **PostNL Address Checker** – Validates addresses using PostNL API
 
 ## 📚 Currently Learning
-
+- React
 - Advanced state management (BLoC, Provider)
 - API design & network architecture
-- Test-Driven Development (TDD) and clean code practices
 
 ---
